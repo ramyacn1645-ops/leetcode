@@ -1,4 +1,5 @@
 class solutions(object):
+    # class string 
     def twoSum1(self, nums, target):
         self ={}
         for i in range(len(nums)):
