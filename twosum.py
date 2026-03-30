@@ -2,6 +2,7 @@ class solution(object):
    
     def twoSum(self, nums, target):
         """
+        doctring-
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
