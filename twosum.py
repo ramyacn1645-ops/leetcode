@@ -1,4 +1,5 @@
 class solution(object):
+   # function definition 
    
     def twoSum(self, nums, target):
         """
